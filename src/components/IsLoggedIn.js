@@ -1,7 +1,7 @@
 import React from 'react'
 
 
-const isLoggedIn = ({setLogin}) => {
+const IsLoggedIn = ({setLogin}) => {
 
    
 
@@ -26,4 +26,4 @@ const isLoggedIn = ({setLogin}) => {
   )
 }
 
-export default isLoggedIn
+export default IsLoggedIn
