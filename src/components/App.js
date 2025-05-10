@@ -2,7 +2,7 @@
 import React from "react";
 import './../styles/App.css';
 import { useState } from 'react'
-import IsLoggedIn from "./isLoggedIn.js";
+import isLoggedIn from "./isLoggedIn.js";
 
 const App = () => {
    const[login,setLogin]=useState(false)
